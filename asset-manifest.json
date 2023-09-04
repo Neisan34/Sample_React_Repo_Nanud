@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repo_Nanud/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repo_Nanud/static/js/main.e475354c.js",
+    "static/js/787.c0d82e8b.chunk.js": "/Sample_React_Repo_Nanud/static/js/787.c0d82e8b.chunk.js",
+    "static/media/naruto.png": "/Sample_React_Repo_Nanud/static/media/naruto.8c6b431bc70f335638f4.png",
+    "static/media/Gin.jpg": "/Sample_React_Repo_Nanud/static/media/Gin.aa4113458ec4bf7f7618.jpg",
+    "static/media/FT.jpg": "/Sample_React_Repo_Nanud/static/media/FT.0bc6c1c22acd9a6d28ce.jpg",
+    "static/media/OP.jpg": "/Sample_React_Repo_Nanud/static/media/OP.9aa930130d08acafbbad.jpg",
+    "static/media/dbzsuper01.jpg": "/Sample_React_Repo_Nanud/static/media/dbzsuper01.9de00d9de4e74c4f6a24.jpg",
+    "static/media/hxh.jpg": "/Sample_React_Repo_Nanud/static/media/hxh.428b883f37dc09fe6bbc.jpg",
+    "index.html": "/Sample_React_Repo_Nanud/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repo_Nanud/static/css/main.88404e20.css.map",
+    "main.e475354c.js.map": "/Sample_React_Repo_Nanud/static/js/main.e475354c.js.map",
+    "787.c0d82e8b.chunk.js.map": "/Sample_React_Repo_Nanud/static/js/787.c0d82e8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.e475354c.js"
+  ]
+}
